@@ -10,6 +10,10 @@ The complete idea can be accessed here:
 [HackIET MetroPolis.pdf](https://github.com/Lakshya0018UP/MetroPolis.com/files/13053630/HackIET.MetroPolis.pdf)
 
 
+The Project can be accessed from this link:
+https://lakshya0018up.github.io/MetroPolis.com/
+
+
 
 The idea is currently in the development phase and requires the mentors' and jury's insight to make it a better Project.
 
