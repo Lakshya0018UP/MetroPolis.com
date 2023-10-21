@@ -20,6 +20,10 @@ body { margin: 0; padding: 0; }
         <div class="head"><h1>MetroPolis.com</h1></div>
     </header>
 
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.css" type="text/css">
+
+
     
     <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.js"></script>
     <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.css" type="text/css">
@@ -45,6 +49,13 @@ body { margin: 0; padding: 0; }
     new mapboxgl.Marker({ color: 'black', rotation: 45 })
     .setLngLat([12.65147, 55.608166])
     .addTo(map)
+
+    map.addControl(
+    new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    mapboxgl: mapboxgl
+    })
+    );
     </script>
  
 </body>
