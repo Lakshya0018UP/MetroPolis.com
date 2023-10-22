@@ -56,6 +56,22 @@ body { margin: 0; padding: 0; }
     mapboxgl: mapboxgl
     })
     );
+    map.addControl(
+        new mapboxgl.GeolocateControl({
+            positionOptions:{
+                enableHighAccuracy:true
+            },
+
+            trackUserLocation:true
+        })
+    )
+
+
+
+    
+
+
+        
     </script>
  
 </body>
