@@ -21,7 +21,6 @@ Regards,
 Lakshya Garg(Leader)
 Members:
 Khushboo Pal
-Syed Saziya
 Yogeshwar Yadav
 
 
