@@ -1,26 +1,33 @@
-# MetroPolis.com by Function Force
+# MetroPolis.com
 
-The repository for the HackIET, the Internal Hackathon at the Institute of Engineering and Technology.
+**Project Summary:**  
+This repository is for MetroPolis.com, developed by Function Force, for the HackIET, the Internal Hackathon at the Institute of Engineering and Technology. The project focuses on creating a comprehensive platform for enhancing city living through smart solutions.
 
-The theme chosen by our team is Smart Cities and the Idea, we are developing is MetroPolis.com.
-MetroPolis.com is the ultimate guide for anyone to mark the maps, show nearby essential services, and then render the nearest routes, at their convenience.
+## Theme: Smart Cities
 
-The complete idea can be accessed here:
+**About MetroPolis.com:**
+MetroPolis.com is an innovative solution designed to make urban living more convenient and efficient. It serves as an ultimate guide for users, offering features such as marking locations on maps, finding nearby essential services, and generating the most convenient routes.
 
-[HackIET MetroPolis.pdf](https://github.com/Lakshya0018UP/MetroPolis.com/files/13053630/HackIET.MetroPolis.pdf)
+## Idea Details
 
+For a detailed overview of our project, please refer to the [HackIET MetroPolis.pdf](https://github.com/Lakshya0018UP/MetroPolis.com/files/13053630/HackIET.MetroPolis.pdf).
 
-The Project can be accessed from this link:
-https://lakshya0018up.github.io/MetroPolis.com/
+## Project Access
 
+To explore and experience MetroPolis.com, please visit the following link:  
+[https://lakshya0018up.github.io/MetroPolis.com/](https://lakshya0018up.github.io/MetroPolis.com/)
 
+**Status:**  
+MetroPolis.com is currently in the development phase and we eagerly seek insights, feedback, and mentorship from experts and the jury to refine and improve the project.
 
-The idea is currently in the development phase and requires the mentors' and jury's insight to make it a better Project.
+## Team Members
 
-Regards, 
-Lakshya Garg(Leader)
-Members:
-Khushboo Pal
-Yogeshwar Yadav
+- **Lakshya Garg (Leader)**
+- Khushboo Pal
+- Yogeshwar Yadav
 
+For any inquiries or feedback, please contact Lakshya Garg.
 
+---
+
+*Thank you for your interest in MetroPolis.com by Function Force. We're committed to building a smarter and more convenient future for urban living.*
