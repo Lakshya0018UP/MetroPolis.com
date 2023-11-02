@@ -25,7 +25,7 @@ MetroPolis.com is currently in the development phase and we eagerly seek insight
 - **Lakshya Garg (Leader)**
 - Khushboo Pal
 - Yogeshwar Yadav
-- Saziya
+-  Syed Saziya
 
 For any inquiries or feedback, please contact Lakshya Garg.
 Email-id-Lakshya.garg2004@gmail.com
